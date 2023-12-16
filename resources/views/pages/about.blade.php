@@ -23,5 +23,6 @@
     <body class="antialiased">
         <h1>About</h1>
         <h3>{{ $name }}</h3>
+        <h3>Home</h3>
     </body>
 </html>
